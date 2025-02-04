@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there, I'm Priya Ammu Reji! 👋
 
-<!--
-**ammu-priya/ammu-priya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
+🎓 I'm currently pursuing my Master’s in Computer Applications at the School of Technology in Applied Sciences, Edappally, Kochi. I hold a Bachelor’s degree in Computer Applications from Saintgits College of Applied Sciences, Kottayam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I'm interning at GKS Infotech Company, Ernakulam, where I work with Python and Flask to build innovative solutions.
+
+🛠️ Technical Skills
+
+Backend Development: PHP, Java, C, C++, Python (with Flask)
+
+Frontend Development: HTML, CSS
+
+Database Management: MySQL
+
+Tools: Git, VSCode, Postman
+
+🚀 Projects
+
+Online PC Store: Developed in Java, this project is a comprehensive platform for PC hardware sales and user management.
+
+Campus Recruitment System: A dynamic system built with PHP, HTML, CSS, and MySQL to streamline student job applications and administrative tasks.
+
+
+💡 Learning Goals
+
+I’m passionate about continuous learning and currently focusing on enhancing my Python skills for backend development.
+

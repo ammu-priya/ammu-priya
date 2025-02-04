@@ -12,17 +12,18 @@ I'm an aspiring software developer currently studying for my Master of Computer 
 ---
 
 ## 🔧 Languages and Tools  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-F34B7D?style=flat&logo=c%2B%2B&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-8892BF?style=flat&logo=php&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-DD4B25?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-264DE4?style=flat&logo=css3&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-C-ffffff?style=flat-square&logo=c&logoColor=00599C)  
+![C++](https://img.shields.io/badge/-C++-ffffff?style=flat-square&logo=c%2B%2B&logoColor=00599C)  
+![Java](https://img.shields.io/badge/-Java-ffffff?style=flat-square&logo=openjdk&logoColor=ED8B00)  
+![PHP](https://img.shields.io/badge/-PHP-ffffff?style=flat-square&logo=php&logoColor=777BB4)  
+![HTML5](https://img.shields.io/badge/-HTML5-ffffff?style=flat-square&logo=html5&logoColor=E34F26)  
+![CSS3](https://img.shields.io/badge/-CSS3-ffffff?style=flat-square&logo=css3&logoColor=1572B6)  
+![React](https://img.shields.io/badge/-React-ffffff?style=flat-square&logo=react&logoColor=61DAFB)  
+![Python](https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python&logoColor=3776AB)  
+![Flask](https://img.shields.io/badge/-Flask-ffffff?style=flat-square&logo=flask&logoColor=000000)  
+![MySQL](https://img.shields.io/badge/-MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=316192)
+
 
 
 

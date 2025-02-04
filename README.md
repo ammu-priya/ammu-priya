@@ -1,31 +1,25 @@
 # Hi there, I'm Priya Ammu Reji! 👋  
 
-## About Me  
-
-- 🎓 I'm currently pursuing my Master’s in Computer Applications at the School of Technology in Applied Sciences, Edappally, Kochi.  
-  I hold a Bachelor’s degree in Computer Applications from Saintgits College of Applied Sciences, Kottayam.  
-- 💼 I'm interning at GKS Infotech Company, Ernakulam, where I work with Python and Flask to build innovative solutions.  
+I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at **[School of Technology and Applied Sciences,Edappally)**.  
 
 ---
 
-## 🛠️ Technical Skills  
-
-- **Backend Development:** PHP, Java, C, C++, Python (with Flask)  
-- **Frontend Development:** HTML, CSS  
-- **Database Management:** MySQL  
-- **Tools:** Git, VSCode, Postman  
+## 🌱 About Me  
+- **🚀 Passionate Learner:** Excited to explore new technologies and grow as a developer.  
+- **💡 Exploring:** Taking my first steps in development and documenting my journey.  
+- **🤝 Connecting:** Interested in collaborating and networking with developers.  
 
 ---
 
-## 🚀 Projects  
-
-- **Online PC Store:** Developed in Java, this project is a comprehensive platform for PC hardware sales and user management.  
-- **Campus Recruitment System:** A dynamic system built with PHP, HTML, CSS, and MySQL to streamline student job applications and administrative tasks.  
-
----
-
-## 💡 Learning Goals  
-
-- I’m passionate about continuous learning and currently focusing on enhancing my Python skills for backend development.  
+## 🔧 Languages and Tools  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
 
 ---
+
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ammu-priya&show_icons=true&theme=radical)

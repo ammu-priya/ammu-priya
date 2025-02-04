@@ -1,6 +1,6 @@
 # Hi there, I'm Priya Ammu Reji! 👋  
 
-I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at **[School of Technology and Applied Sciences,Edappally)**.  
+I'm an aspiring software developer currently studying for my Master of Computer Applications (MCA) at **School of Technology and Applied Sciences,Edappally**.  
 
 ---
 
